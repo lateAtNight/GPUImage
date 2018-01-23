@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>GPUImage</id>
-    <version>1.0.0</version>
+    <version>1.0.3</version>
     <authors>David Ness</authors>
     <owners>David Ness</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -10,5 +10,12 @@
     <releaseNotes>First release.</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>ImageProcessing GPU</tags>
+    <dependencies>
+        <group targetFramework="MonoAndroid">
+        </group>
+    </dependencies>
   </metadata>
+  <files>
+      <file src="GPUImage\bin\Release\GPUImage.dll" target="lib\MonoAndroid10\GPUImage.dll" />
+  </files>
 </package>

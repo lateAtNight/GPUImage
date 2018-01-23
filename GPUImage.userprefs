@@ -1,5 +1,23 @@
 ﻿<Properties StartupConfiguration="{B11CC73C-39C8-4108-AD83-E497307B024F}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GPUImage" expanded="True">
+            <Node name="GPUImage" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Additions" expanded="True" />
+              <Node name="Jars" expanded="True">
+                <Node name="gpuimage-library-1.3.0.jar" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Transforms" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
