@@ -1,0 +1,5 @@
+/Users/davidness/Projects/GPUImage/GPUImage/bin/Debug/GPUImage.dll
+/Users/davidness/Projects/GPUImage/GPUImage/bin/Debug/GPUImage.pdb
+/Users/davidness/Projects/GPUImage/GPUImage/obj/Debug/GPUImage.csproj.CoreCompileInputs.cache
+/Users/davidness/Projects/GPUImage/GPUImage/obj/Debug/GPUImage.dll
+/Users/davidness/Projects/GPUImage/GPUImage/obj/Debug/GPUImage.pdb
